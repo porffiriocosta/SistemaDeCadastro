@@ -1,0 +1,11 @@
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Aplication\bin\Debug\Sistema.Cadastro.Aplication.dll
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Aplication\bin\Debug\Sistema.Cadastro.Aplication.pdb
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Aplication\bin\Debug\Sistema.Cadastro.Infra.dll
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Aplication\bin\Debug\Dapper.dll
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Aplication\bin\Debug\Sistema.Cadastro.Infra.pdb
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Aplication\bin\Debug\Dapper.xml
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Aplication\obj\Debug\Sistema.Cadastro.Application.csproj.AssemblyReference.cache
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Aplication\obj\Debug\Sistema.Cadastro.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Aplication\obj\Debug\Sistema.Cadastro.Application.csproj.CopyComplete
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Aplication\obj\Debug\Sistema.Cadastro.Aplication.dll
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Aplication\obj\Debug\Sistema.Cadastro.Aplication.pdb

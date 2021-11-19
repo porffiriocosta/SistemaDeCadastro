@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ac47103-f0bd-4206-8c8e-8ee93de875a8": {
+      "ProjectGuid": "0ac47103-f0bd-4206-8c8e-8ee93de875a8",
+      "DisplayName": "Sistema.Cadastro.View",
+      "ColorIndex": 0
+    },
+    "f5370d0b-fc89-4a0f-82b1-70de0990edc2": {
+      "ProjectGuid": "f5370d0b-fc89-4a0f-82b1-70de0990edc2",
+      "DisplayName": "Sistema.Cadastro.Application",
+      "ColorIndex": 1
+    },
+    "07b90566-2140-493b-acc3-a30f1ac41d0a": {
+      "ProjectGuid": "07b90566-2140-493b-acc3-a30f1ac41d0a",
+      "DisplayName": "Sistema.Cadastro.Infra",
+      "ColorIndex": 2
+    },
+    "4603f621-2cd2-4bf4-9a38-298cd9372355": {
+      "ProjectGuid": "4603f621-2cd2-4bf4-9a38-298cd9372355",
+      "DisplayName": "Sistema.Cadastro.Views",
+      "ColorIndex": 3
+    },
+    "a54c6a06-4955-458a-9ff7-a5a74177c3d9": {
+      "ProjectGuid": "a54c6a06-4955-458a-9ff7-a5a74177c3d9",
+      "DisplayName": "Sistema.Cadastro.Test",
+      "ColorIndex": 4
+    },
+    "9925b14c-055d-48c3-bacf-a8a9310bf2ae": {
+      "ProjectGuid": "9925b14c-055d-48c3-bacf-a8a9310bf2ae",
+      "DisplayName": "3-Infra",
+      "ColorIndex": 5
+    },
+    "1859795a-caec-40c3-8c93-788eb6708f40": {
+      "ProjectGuid": "1859795a-caec-40c3-8c93-788eb6708f40",
+      "DisplayName": "1-Views",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

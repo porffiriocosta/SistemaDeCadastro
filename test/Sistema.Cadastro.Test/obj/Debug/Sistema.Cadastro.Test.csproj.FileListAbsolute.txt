@@ -1,0 +1,15 @@
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\bin\Debug\Sistema.Cadastro.Test.dll
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\bin\Debug\Sistema.Cadastro.Test.pdb
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\obj\Debug\Sistema.Cadastro.Test.csproj.AssemblyReference.cache
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\obj\Debug\Sistema.Cadastro.Test.csproj.CoreCompileInputs.cache
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\obj\Debug\Sistema.Cadastro.Test.csproj.CopyComplete
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\obj\Debug\Sistema.Cadastro.Test.dll
+C:\Projetos\SistemaDeCadastro\test\Sistema.Cadastro.Test\obj\Debug\Sistema.Cadastro.Test.pdb

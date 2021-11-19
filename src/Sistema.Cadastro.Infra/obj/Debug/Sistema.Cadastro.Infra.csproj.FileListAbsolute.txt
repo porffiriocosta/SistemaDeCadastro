@@ -1,0 +1,9 @@
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Infra\bin\Debug\Sistema.Cadastro.Infra.dll
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Infra\bin\Debug\Sistema.Cadastro.Infra.pdb
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Infra\bin\Debug\Dapper.dll
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Infra\bin\Debug\Dapper.xml
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Infra\obj\Debug\Sistema.Cadastro.Infra.csproj.AssemblyReference.cache
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Infra\obj\Debug\Sistema.Cadastro.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Infra\obj\Debug\Sistema.Cadastro.Infra.csproj.CopyComplete
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Infra\obj\Debug\Sistema.Cadastro.Infra.dll
+C:\Projetos\SistemaDeCadastro\src\Sistema.Cadastro.Infra\obj\Debug\Sistema.Cadastro.Infra.pdb
